@@ -1,0 +1,14 @@
+#VSCode Settings
+.vscode
+
+#Virtual Environments
+bot-env
+
+#Environment Variables
+.env
+
+#Logs
+err.log
+
+#Misc
+.DS_Store
